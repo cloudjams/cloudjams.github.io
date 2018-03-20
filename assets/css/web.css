@@ -6226,7 +6226,7 @@ body {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 400;
   font-size: 14px;
-  background: url("/backgrounds/clouds.png") no-repeat center center fixed;
+  background: url("/assets/img/backgrounds/clouds.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
